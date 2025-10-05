@@ -1,1 +1,13 @@
 
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.3
+rank_bm25>=0.2.2
+quantulum3>=0.8.0
+pint>=0.20.1
+scikit-learn>=1.2.2
+nlpaug>=1.1.10
+datasets>=2.14.0
+pandas>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
